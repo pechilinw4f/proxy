@@ -3,6 +3,7 @@ import fetch from 'node-fetch';
 
 // const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
 // COMPTE = test1@mrotzis.com
+// TEST
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
 
 if (!OPENAI_API_KEY) {
